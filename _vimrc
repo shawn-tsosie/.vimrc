@@ -34,3 +34,6 @@ function MyDiff()
   endif
 endfunction
 
+set number relativenumber
+set tabstop=2
+color murphy
