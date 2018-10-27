@@ -37,3 +37,5 @@ endfunction
 set number relativenumber
 set tabstop=2
 color murphy
+set lines=50 columns=84
+set tw=80
