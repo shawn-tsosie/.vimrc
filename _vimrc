@@ -35,7 +35,9 @@ function MyDiff()
 endfunction
 
 set number relativenumber
-set tabstop=2
+set tabstop=4 softtabstop=0 expandtab shiftwidth=2 smarttab
 color murphy
 set lines=45 columns=84
 set tw=79
+set noeb
+set vb
